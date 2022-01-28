@@ -28,6 +28,7 @@ public class Bullet : MonoBehaviour
     {
         if (other.CompareTag(Tags.ENEMY_BODY))
         {
+            print("!");
             other.GetComponent<Enemy>().Die();
         }
 
