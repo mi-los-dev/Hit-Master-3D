@@ -138,6 +138,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Map
       objectReference: {fileID: 0}
+    - target: {fileID: 1235894906759354, guid: f675c07d915406144ae3100b985c0abc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4186415992352112, guid: f675c07d915406144ae3100b985c0abc, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -270,6 +274,10 @@ PrefabInstance:
     - target: {fileID: 1235894906759354, guid: f675c07d915406144ae3100b985c0abc, type: 3}
       propertyPath: m_TagString
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235894906759354, guid: f675c07d915406144ae3100b985c0abc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4186415992352112, guid: f675c07d915406144ae3100b985c0abc, type: 3}
       propertyPath: m_RootOrder
@@ -503,6 +511,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Primitive_Cone_01P
       objectReference: {fileID: 0}
+    - target: {fileID: 1920776105025094, guid: 917b3e362cb87ec4c9f396c33a955af2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4421914344123784, guid: 917b3e362cb87ec4c9f396c33a955af2, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -565,6 +577,10 @@ PrefabInstance:
     - target: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
       propertyPath: m_Name
       value: SM_PolygonPrototype_Buildings_Block_1x1_01P (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4962039562683002, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
       propertyPath: m_RootOrder
@@ -751,6 +767,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Map
       objectReference: {fileID: 0}
+    - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4963671626276604, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -841,6 +861,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Map
       objectReference: {fileID: 0}
+    - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4963671626276604, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -926,6 +950,10 @@ PrefabInstance:
     - target: {fileID: 1109385109949186, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
       propertyPath: m_Name
       value: SM_PolygonPrototype_Prop_Cone_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109385109949186, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4812002822647660, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
       propertyPath: m_RootOrder
@@ -1084,6 +1112,10 @@ PrefabInstance:
     - target: {fileID: 1109385109949186, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
       propertyPath: m_Name
       value: SM_PolygonPrototype_Prop_Cone_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109385109949186, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4812002822647660, guid: 37e681eb08549004c9d9c2be529cbf54, type: 3}
       propertyPath: m_RootOrder
@@ -2234,6 +2266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Prop_Crate_03
       objectReference: {fileID: 0}
+    - target: {fileID: 1118085362977378, guid: 5527826a6315a224d850675a730c4f62, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4035765028099436, guid: 5527826a6315a224d850675a730c4f62, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -2343,6 +2379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Buildings_Block_1x1_01P (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4962039562683002, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -2417,6 +2457,10 @@ PrefabInstance:
     - target: {fileID: 1755429121576396, guid: 4a0ab548b1b39cf4b8b48726d5f4fbfe, type: 3}
       propertyPath: m_Name
       value: SM_PolygonPrototype_Buildings_DoorFrame_01P
+      objectReference: {fileID: 0}
+    - target: {fileID: 1755429121576396, guid: 4a0ab548b1b39cf4b8b48726d5f4fbfe, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4574243262341506, guid: 4a0ab548b1b39cf4b8b48726d5f4fbfe, type: 3}
       propertyPath: m_RootOrder
@@ -2530,6 +2574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Primitive_Tube_01P
       objectReference: {fileID: 0}
+    - target: {fileID: 1902795669187520, guid: 6fb840e833a0f2049b655aba4bf98513, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4420830335550748, guid: 6fb840e833a0f2049b655aba4bf98513, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -2605,6 +2653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Prop_Sword_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1917391421932174, guid: 1eb47ee7fb4e0224482d77ed61559671, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4855783266589030, guid: 1eb47ee7fb4e0224482d77ed61559671, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -2671,6 +2723,10 @@ PrefabInstance:
     - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_TagString
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4963671626276604, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_RootOrder
@@ -2762,6 +2818,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Map
       objectReference: {fileID: 0}
+    - target: {fileID: 1860949050935862, guid: 35b4129ac994d4e49a7699deb68ac65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4062878138970036, guid: 35b4129ac994d4e49a7699deb68ac65b, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -2843,6 +2903,10 @@ PrefabInstance:
     - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_TagString
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 1761572497134762, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4963671626276604, guid: 4ec4cfadebd96154690192fbd49e28b8, type: 3}
       propertyPath: m_RootOrder
@@ -3179,6 +3243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_PolygonPrototype_Prop_Crate_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1118085362977378, guid: 5527826a6315a224d850675a730c4f62, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4035765028099436, guid: 5527826a6315a224d850675a730c4f62, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -3253,6 +3321,10 @@ PrefabInstance:
     - target: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
       propertyPath: m_Name
       value: SM_PolygonPrototype_Buildings_Block_1x1_01P
+      objectReference: {fileID: 0}
+    - target: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4962039562683002, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
       propertyPath: m_RootOrder
@@ -3335,7 +3407,7 @@ GameObject:
   m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2000060922
 Transform:
@@ -3686,6 +3758,10 @@ PrefabInstance:
     - target: {fileID: 1860949050935862, guid: 35b4129ac994d4e49a7699deb68ac65b, type: 3}
       propertyPath: m_TagString
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 1860949050935862, guid: 35b4129ac994d4e49a7699deb68ac65b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4062878138970036, guid: 35b4129ac994d4e49a7699deb68ac65b, type: 3}
       propertyPath: m_RootOrder
