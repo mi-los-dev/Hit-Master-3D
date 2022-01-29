@@ -16,12 +16,14 @@ public class Character : MonoBehaviour
     public FinishState FinishState { get; private set; }
     public NavMeshAgent NavMeshAgent { get; private set; }
     public Camera Camera { get; private set; }
+    public IGun Gun { get; private set; }
     private List<Enemy> _enemies = new List<Enemy>();
 
     private void Awake()
     {
         NavMeshAgent = GetComponent<NavMeshAgent>();
         Camera = Camera.main;
+        Gun = GetComponentInChildren<IGun>();
     }
 
     private void Start()

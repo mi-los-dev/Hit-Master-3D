@@ -2,14 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// ДЛЯ ДРУГИХ ПИСТОЛЕТОВ МЫ МОЖЕМ
-// МЕНЯТЬ ВРЕМЯ ПЕРЕЗАРЯДКИ И СКОРОТЬ ПОЛЕТА ПУЛИ
-// ДЛЯ ОСОБОЙ ЛОГИКИ ПИСТОЛЕТА,
-// МЫ МОЖЕМ ДОБАВИТЬ НОВОЕ СОСТОЯНИЕ
-
 public class ShootingState : State
 {
-    private float _rechargeTime = 0.25f; 
     private float _currentRechargeTime;
     
     public ShootingState(Character character, StateMachine stateMachine) : base(character, stateMachine)
@@ -29,14 +23,9 @@ public class ShootingState : State
         RaycastHit Po;
         if (!Physics.Raycast(ray, out Po)) return;
         
-        var startPos = character.transform.position;
-        startPos.y += 1;
-        
-        var bullet = character.BulletManager.GetBullet();
-        bullet.transform.position = startPos;
-        bullet.GetComponent<Bullet>().Drop(Po.point);
+        character.Gun.Shot(Po.point);
 
-        _currentRechargeTime = _rechargeTime;
+        _currentRechargeTime = character.Gun.GetRechargeTime();
     }
 
     public override void Update()
